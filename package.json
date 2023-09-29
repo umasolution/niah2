@@ -18,7 +18,7 @@
   "dependencies": {
     "@bomgar/typescript-utils": "git+ssh://git@git.bt3ng.com:7999/try/typescript-utils.git#bb0738b866684fb9936f7308649aa653ee8e0458",
     "esbuild": "~0.14.34",
-    "tslib": "~2.2.0"
+    "tslib": "~2.6.2"
   },
   "devDependencies": {
     "@bomgar/bg-web-sync": "git+ssh://git@git.bt3ng.com:7999/~bsimpson/web-watch-sync.git#480b550f03a429c0927dd592c3fc9488c2a2e87b",
